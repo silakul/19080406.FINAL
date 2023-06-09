@@ -36,15 +36,6 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 [^1]: 19080406, [Github Repo](https://github.com/silakul/19080406.FINAL)
 
-# Important Information About Midterm
-
-\colorbox{BurntOrange}{WRITE YOUR GITHUB REPO LINK ON LINE 37 IN THIS FILE!}
-
-**Project Proposal submisson will be done by uploading a zip file to the ekampus system along with the Github repo link. If you do not upload a zip file to the system and do not provide a Github repo link, you will be deemed not to have entered the midterm and final exams.**
-
-**You must upload your project folder (`YourStudentID.zip` file) to *ekampus.ankara.edu.tr* until 9 June 2023, 23:59.**
-
-\colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
 
 # Introduction
 Child marriage, also known as adolescent marriage, early marriage, forced marriage, and child brides, generally refers to the practice of children, particularly girls, under the age of 18 getting married. It is a pervasive issue that transcends cultural boundaries and is not confined to any specific culture or region. Children under the age of 18 who are married are considered a vulnerable group worldwide [@paul2019effects]. Consequently, this subject necessitates academic scrutiny and comprehensive analysis.
