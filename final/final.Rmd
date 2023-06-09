@@ -1,7 +1,7 @@
 ---
-title: "Title"
+title: "CHILD MARRIAGE IN TURKEY"
 author: 
-  - Last Name, First Name[^1]
+  - Kul, Sılanur Ayşen[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa.csl
 header-includes:
@@ -25,7 +25,7 @@ urlcolor: blue
 fontsize: 12pt
 biblio-style: apalike
 abstract: |
-    Write your abstract here.
+    Child marriages are one of the most significant causes of gender inequality within families in Turkey, as well as a widespread social problem observed worldwide. This situation necessitates a comprehensive examination of child marriages to understand and address all aspects of this issue. The findings of this study highlight that child marriages are a significant consequence of gender inequalities observed in social, political, and economic spheres. Moreover, it reveals that child marriages perpetuate gender inequality in the lives of women. This study aims to shed light on the significant socio-cultural aspects of child mothers and child marriages in Turkey, focusing on regional variations. 
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
