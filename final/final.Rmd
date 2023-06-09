@@ -42,12 +42,18 @@ Child marriage, also known as adolescent marriage, early marriage, forced marria
 
 Child marriage in Turkey is an under-researched topic that requires further investigation and analysis. There is a need for comprehensive studies examining the current situation of child marriage from medical, social, economic, and legal perspectives. Such research is crucial for gaining a deeper understanding of the issue and developing effective strategies to address child marriage in Turkey. By exploring the various dimensions of child marriage, policymakers, organizations, and communities can make informed decisions and take appropriate actions to protect children's rights and promote gender equality.
 
-The distribution of child marriages in Turkey reveals a declining trend in their numbers over the years, alongside regional variations in the average age at marriage. Based on data published by TUIK in 2022, girl child marriages have decreased according to official statistics. The percentage of child brides in the 16-17 age group decreased from 5.2% in 2015 to 4.6% in 2016. When examining the provincial data, Ağrı province has the highest rate of marriages involving girls under 18, with a rate of 15.7%. Conversely, Tunceli province has the lowest rate at 1.1%. These findings highlight the need for targeted efforts to address child marriages and implement measures that protect the rights of underage girls across different regions in Turkey [@kiran2017toplumsal]
+Based on the extensive literature and real-life examples, it becomes evident that family and marriage are primary institutions where gender dominance prevails. Within this context, social events entwined with power dynamics shaped by gender roles occur both prior to making the decision to marry, during the marriage, and even after marriages have ended [@duman2019ccocuk]. Child marriage, the focus of this study, emerges as both a cause and a consequence of these events. This particular form of marriage, which will be explored in relation to the societal expectations imposed on women and men, arises from various reasons and has diverse impacts on social life.
+
+When examining the causes and effects, similar patterns are observed worldwide, including in Turkey. As evidenced by the statistical information presented in the subsequent sections of this study, although there is a decreasing trend in early marriages, it remains a pressing social problem that inflicts deep wounds and imposes severe restrictions, particularly on the lives of girls.
+
+
 
 
 ## Literature Review
 
+The distribution of child marriages in Turkey reveals a declining trend in their numbers over the years, alongside regional variations in the average age at marriage. 
 
+Based on data published by TUIK in 2022, girl child marriages have decreased according to official statistics. The percentage of child brides in the 16-17 age group decreased from 5.2% in 2015 to 4.6% in 2016. When examining the provincial data, Ağrı province has the highest rate of marriages involving girls under 18, with a rate of 15.7%. Conversely, Tunceli province has the lowest rate at 1.1%. These findings highlight the need for targeted efforts to address child marriages and implement measures that protect the rights of underage girls across different regions in Turkey [@kiran2017toplumsal]. The likelihood of giving birth to a first child shows an upward trend with age: 0.4% at 15, 2.2% at 16, 4.4% at 17, 9.7% at 18, and 12.9% at 19. So, as age increases, the chances of becoming a mother for the first time also increase. In Turkey, the proportion of adolescent childbearing is 35% [@oren2019investigation].
 
 # Data
 
