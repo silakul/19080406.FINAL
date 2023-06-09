@@ -34,7 +34,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: Student ID, [Github Repo](https://github.com/YOUR_USER_NAME_HERE/YOUR_REPO_NAME_HERE)
+[^1]: 19080406, [Github Repo](https://github.com/silakul/19080406.FINAL)
 
 # Important Information About Midterm
 
@@ -47,11 +47,10 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 \colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
 
 # Introduction
-This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @aydinonat:2007 for academic writing rules. You can find lots of online resources on this topic.
+Child marriage, also known as adolescent marriage, early marriage, forced marriage, and child brides, generally refers to the practice of children, particularly girls, under the age of 18 getting married. It is a pervasive issue that transcends cultural boundaries and is not confined to any specific culture or region. Children under the age of 18 who are married are considered a vulnerable group worldwide (Paul, 2019). Consequently, this subject necessitates academic scrutiny and comprehensive analysis.
 
-The sections in your project assignment should definitely include the sections in this text. Apart from the sections used here, you can use different subsections. When writing your project, use this file as a draft and adapt its content to your purposes.
+Child marriage in Turkey is an under-researched topic that requires further investigation and analysis. There is a need for comprehensive studies examining the current situation of child marriage from medical, social, economic, and legal perspectives. Such research is crucial for gaining a deeper understanding of the issue and developing effective strategies to address child marriage in Turkey. By exploring the various dimensions of child marriage, policymakers, organizations, and communities can make informed decisions and take appropriate actions to protect children's rights and promote gender equality.
 
-In this section, mention the purpose and importance of your work in a few paragraphs.
 
 ## Literature Review
 
