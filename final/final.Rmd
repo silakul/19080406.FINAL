@@ -42,15 +42,17 @@ Child marriage, also known as adolescent marriage, early marriage, forced marria
 
 Child marriage in Turkey is an under-researched topic that requires further investigation and analysis. There is a need for comprehensive studies examining the current situation of child marriage from medical, social, economic, and legal perspectives. Such research is crucial for gaining a deeper understanding of the issue and developing effective strategies to address child marriage in Turkey. By exploring the various dimensions of child marriage, policymakers, organizations, and communities can make informed decisions and take appropriate actions to protect children's rights and promote gender equality.
 
+The distribution of child marriages in Turkey reveals a declining trend in their numbers over the years, alongside regional variations in the average age at marriage. Based on data published by TURKSTAT in 2022, girl child marriages have decreased according to official statistics. The percentage of child brides in the 16-17 age group decreased from 5.2% in 2015 to 4.6% in 2016. When examining the provincial data, Ağrı province has the highest rate of marriages involving girls under 18, with a rate of 15.7%. Conversely, Tunceli province has the lowest rate at 1.1%. These findings highlight the need for targeted efforts to address child marriages and implement measures that protect the rights of underage girls across different regions in Turkey [@kiran2017toplumsal]
+
 
 ## Literature Review
 
-In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least six** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
+
 
 # Data
-In this section, discuss the source of the data set you use in your study, if you have done any operation on the raw data, these operations and the summary statistics about the data set. In this section, it is mandatory to have a table (Table \ref{tab:summary}) containing summary statistics (mean, standard deviation, minimum, maximum, etc. values) of all variables. Make the necessary references to your tables as shown in the previous sentence [@perkins:1991].
 
-R codes for the analysis should start in this section. In this section, you should include the codes that imports the data set into R and the codes that generate summary statistics.
+
+
 
 ```{r}
 library(tidyverse)
@@ -80,7 +82,7 @@ survey %>%
 
 
 # Methods and Data Analysis
-In this section describe the methods that you use to achieve the purpose of the study. You should use the appropriate analysis methods (such as hypothesis tests and correlation analysis) that we covered in the class. If you want, you can also use other methods that we haven't covered. If you think some method is more suitable for the purpose of the analysis and the data set, you can use that method [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
+.
 
 For example, if you are performing regression analysis, discuss your predicted equation in this section. Write your equations and mathematical expressions using $LaTeX$.
 
